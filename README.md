@@ -1,2 +1,2 @@
 # Images
-This is an image reposity, made by Morc.
+This is an image repository, made by Morc.
